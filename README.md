@@ -3,6 +3,8 @@
 # Phạm Duy Tiến Minh
 # K225480106048
 
+Link video: https://drive.google.com/file/d/1rENlKAPA4XTIorcxfhzek08sVpyCfhkn/view?usp=sharing 
+
 -Cài đặt các máy ảo gồm máy chủ + 2 worker + kết nối mạng:
 
 <img width="1920" height="783" alt="image" src="https://github.com/user-attachments/assets/40593553-ee60-493c-a34a-cbde4cb38765" />
